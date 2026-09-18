@@ -1,5 +1,3 @@
-A console-based Library Management System built in core Java, developed as
-the "Build Your Own Project" submission for the Java Programming course.
 
 **Author:** Yatharth Joshi
 **Registration No:** 24BCY10045
